@@ -2,4 +2,4 @@
 
 WebAssembly port of the DeSmuME.
 
-https://ds.44670.org/
+https://lolololoololol1194.github.io/DS-Emulator-Online-/.
